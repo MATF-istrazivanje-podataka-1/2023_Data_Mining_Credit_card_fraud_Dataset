@@ -1,4 +1,4 @@
-# Projekat iz Istraživanja podataka 1 na temu 'Credit Card Fraud'
+# Projekat iz Istraživanja podataka 1 na temu       'Credit Card Fraud'
 
 __*Teme obradjene na ovom projektu su:*__
 
