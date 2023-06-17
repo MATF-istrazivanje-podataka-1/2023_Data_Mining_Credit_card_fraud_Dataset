@@ -9,6 +9,8 @@ __*Teme obradjene na ovom projektu su:*__
 __*Korišćena baza podataka*__
 
 https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+
+
 __*Osnovni podaci:*__
 
 - Autor: Radenko Nikolić 400/2021
